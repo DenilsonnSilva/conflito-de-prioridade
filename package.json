@@ -1,0 +1,21 @@
+{
+  "name": "conflito-de-prioridade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cls && tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "@types/prompt-sync": "^4.2.3",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
